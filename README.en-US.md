@@ -25,7 +25,7 @@ vue-pure-admin is a free and open source middle and back-end template. Using the
 
 ## Preview
 
-- [vue-pure-admin](http://yiming_chang.gitee.io/manages)
+- [vue-pure-admin](https://vue-pure-admin.vercel.app)
 
 <p align="center">
   <img alt="PureAdmin Logo" width="100%" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b4857fc7eb7d4c0f8deeefc644c1f7dd~tplv-k3u1fbpfcp-watermark.awebp?">
@@ -126,13 +126,13 @@ If you think this project is helpful to you, you can help the author buy a cup o
 
 ## License
 
-In principle, no fees and copyrights are charged, so you can use it with confidence
+In principle, no fees and copyrights are charged, and you can use it with confidence, but if you need secondary open source, please contact the author for permission!
 
 [MIT © xiaoxian521-2020](./LICENSE)
 
 ## Backers
 
-Thank you very much for your support, I believe the project will get better and better! ! ! :heart:
+Thank you very much for your support, I believe the project will get better and better :heart:
 
 |                                                                xueyuheng                                                                 |                                                                taolei1990                                                                 |                                                                hang-kim                                                                 |                                                               madwolfcrazy                                                                |                                                                limuen                                                                 |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
@@ -140,6 +140,6 @@ Thank you very much for your support, I believe the project will get better and 
 
 ## Contributors
 
-This project exists thanks to all the people who contribute!!! :heart:
+This project exists thanks to all the people who contribute :heart:
 
 <a href="https://github.com/xiaoxian521/vue-pure-admin/graphs/contributors"><img src="https://contrib.rocks/image?repo=xiaoxian521/vue-pure-admin" /></a>
